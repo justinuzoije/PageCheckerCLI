@@ -1,0 +1,14 @@
+{
+  "name": "protoman",
+  "version": "1.0.0",
+  "description": "This crawls GS collection pages for changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Uzoije",
+  "license": "ISC",
+  "dependencies": {
+    "node-webcrawler": "^0.8.0"
+  }
+}
